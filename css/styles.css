@@ -1,0 +1,9 @@
+body { background-color: hsl(212, 45%, 89%); }
+h1 { font-family: 'Outfit', sans-serif; font-size: 1.5em; font-weight: 700; text-align: center; }
+img { position: relative; padding: 2%; border-radius: 5%; }
+p { font-family: 'Outfit', sans-serif; font-size: 15px; font-weight: 400; color: hsl(220, 15%, 55%); text-align: center; padding: 2%; }
+.card { background-color: #FFF; border-radius: 10px; padding: 10px 10px 10px 10px ; margin-top: 5%; margin-left: 40%; margin-right: 40%; }
+@media (max-width: 375px) {.card { margin-left: 10%; margin-right: 10%; }}
+.attribution { font-size: 11px; font-family: 'Outfit', sans-serif; text-align: center; margin-top: 1%; }
+.attribution a { color: hsl(228, 40%, 40%); text-decoration: none; }
+.attribution a:hover { color: hsl(228, 65%, 64%); text-decoration: underline; }
